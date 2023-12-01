@@ -1,1 +1,1 @@
-# Web-Scraping-and-Text-Analysis-of-Movie-Theater-Showtimes
+Cinematic Trends and Data Insights: An In-Depth Analysis Using TMDB API
